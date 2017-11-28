@@ -1,0 +1,36 @@
+.skin-blue .main-header .logo{
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 24px;
+  background-color: #FF4742;
+}
+.skin-blue .main-header .logo:hover {
+  background-color: #FF4742;
+}
+ /* navbar (rest of the header) */
+.skin-blue .main-header .navbar {
+  background-color: #FF4742;
+}
+
+h5 {
+	text-align: center;
+	margin-left: 18%;
+	margin-right: 18%;
+}
+
+#regions {
+  margin-left: 25%;
+  margin-top: 90%;
+}
+
+#headerSection {
+	margin: -20px 0 20px;
+	color: #FAFAFA;
+	padding: 10px 10px;
+	box-shadow: 0 0 7px #000;
+  background: gray;
+} 
+#headerSection a {
+  color: white !important;
+  text-decoration: underline;
+}

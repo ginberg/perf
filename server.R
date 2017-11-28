@@ -1,4 +1,5 @@
-# Medicare server part
+# Real Time Performance Dashboard server part
+# Created by Ger Inberg
 
 shinyServer(function(input, output, session){
 
